@@ -5,10 +5,7 @@ import TodoList from "TodoList";
 import AddTodo from "AddTodo";
 
 class TodoApp extends Component {
-
-
     render(){
-
         return (
             <div className="todoapp">
                 <h1>Todo List</h1>
@@ -18,8 +15,6 @@ class TodoApp extends Component {
             </div>
         );
     }
-
-
 }
 
 export default TodoApp;

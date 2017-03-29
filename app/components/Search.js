@@ -6,11 +6,6 @@ class Search extends Component {
 
     constructor(props) {
         super(props);
-        this.searchTodos = this.searchTodos.bind(this);
-    }
-
-    searchTodos() {
-
     }
 
     render() {
